@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Ruby streaming client for any backend}
   spec.description   = %q{Ruby streaming client for any backend}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/davydovanton/anystream"
   spec.license       = "MIT"
 
 
