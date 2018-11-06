@@ -28,4 +28,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "redis"
   spec.add_development_dependency "connection_pool"
+
+  spec.add_development_dependency "ruby-kafka"
 end
